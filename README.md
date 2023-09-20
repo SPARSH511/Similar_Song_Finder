@@ -36,7 +36,7 @@ To use this project, you'll need to have Python installed on your system. You ca
 ## Functionality
 This project notebook provides the following functionality:
 
-  -> Loading and preprocessing of the dataset.
-  -> Calculation of song similarity based on various musical attributes.
-  -> Finding the most similar song to a given song name.
-  -> Displaying the most similar song's name, similarity percentage, and artist information.
+  - Loading and preprocessing of the dataset.
+  - Calculation of song similarity based on various musical attributes.
+  - Finding the most similar song to a given song name.
+  - Displaying the most similar song's name, similarity percentage, and artist information.
