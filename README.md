@@ -30,7 +30,7 @@ The dataset (`songs_dataset.csv`) contains the following columns:
 
 ## Getting Started
 
-To use this project, you'll need to have Python installed on your system. You can also use a Jupyter Notebook environment to run the `similar_song_finder.ipynb` script. Additionally, make sure you have the dataset `songs_dataset.csv` in the same directory as the script.
+To use this project, you will need to have Python installed on your system. You can also use a Jupyter Notebook or Google Colab environment to run the `similar_song_finder.ipynb`. Additionally, make sure you have the dataset `songs_dataset.csv` in the same directory as the script.
 
 
 ## Functionality
